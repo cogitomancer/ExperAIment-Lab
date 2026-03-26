@@ -56,7 +56,7 @@ Each experiment contains:
 * The other is a neutral, task-oriented prompt
 * Compare tone, creativity, ethics, and meta-awareness
 
-## 🛍 Future Directions
+## 🔮 Future Directions
 
 * Experimenting with “self-reflective agents”
 * Testing limits of alignment when primed with psychological context
