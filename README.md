@@ -14,7 +14,7 @@ Welcome to **ExperAIment** — an open, ongoing exploration into how large langu
 * Situations where models are **explicitly informed** of being evaluated
 * Comparative testing across different models or prompt variants
 
-Rather than focusing solely on accuracy or performance, this lab investigates *awareness, alignment, contextual sensitivity, and emergent behavior* in LLMs.
+Rather than focusing solely on accuracy or benchmark performance, this lab investigates awareness, alignment, contextual sensitivity, and emergent behavior in LLM systems. in LLMs.
 
 ## 🔬 Example Experiments
 
