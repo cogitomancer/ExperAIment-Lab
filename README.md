@@ -16,6 +16,13 @@ Welcome to **ExperAIment** — an open, ongoing exploration into how large langu
 
 Rather than focusing solely on accuracy or performance, this lab investigates *awareness, alignment, contextual sensitivity, and emergent behavior* in LLMs.
 
+## 🔬 Example Experiments
+
+- Prompt framing vs output quality (instruction phrasing, role conditioning)
+- Disclosure-aware prompting (model behavior when evaluation context is revealed)
+- Structured vs unstructured reasoning tasks (schema-driven vs free-form prompts)
+- Adversarial prompting (hallucination, edge-case, and failure mode testing)
+
 ## 🧪 Structure
 
 ExperAIment is the lab. Each subfolder under `/experiments` contains a unique study.
